@@ -1,6 +1,4 @@
 # TutSoSe23-prvt Hausarbeit
-Das hier ist die Repo mit Lösungen von der Hausarbeit
-
 Das Readme dient als Übersicht und Plan der Hausarbeit.
 
 ## Thema  
@@ -29,7 +27,7 @@ Es gibt 2 Arten von Aufgaben, *Aufgaben* und *Funktionen*. Aufgaben sind Aufgabe
 Auf diese Weise behalten wir unsere Hauptdatei aufgeräumter und übersichtlicher.
 
 Es wird sehr wahrscheinlich euer erster Ansatz nicht funktionieren, das ist nicht schlimm :) <br>
-Daher lest euch eure Fehlermeldungen durch und arbeitet mit dem VS-Code Debugger (oder einem anderem Debugging-Tool), den VS-Code Debugger werden wir auch noch im Tutorium behandeln, schadet aber nicht wenn ihr das auch schonmal selber #EXCLUDEmacht ;)
+Daher lest euch eure Fehlermeldungen durch und arbeitet mit dem VS-Code Debugger (oder einem anderem Debugging-Tool), den VS-Code Debugger werden wir auch noch im Tutorium behandeln, schadet aber nicht wenn ihr das auch schonmal selber macht ;)
 
 Lasst euch nicht von den Variablen irritieren die im Format '"var_name":dtype[...] = ...' initialisiert werden, den Teil nach dem Doppelpunkt nennt man Typehint, also ein Hinweis welche Datentyp diese Variable haben soll. <br>
 Es gibt viele Möglichkeiten die Aufgaben zu lösen, daher sind auch die Code Vorlagen nur Vorschläge die benutzt werden können. Aber wenn ihr andere von den Typehints und den Anweisungen komplett abweisende Herangehensweisen wählt müsst ihr auch die main.py Datei anpassen, denn diese ist auf die Typehints und Anweisungen zugeschnitten.<br>
